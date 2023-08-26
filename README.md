@@ -5,10 +5,12 @@ My name is Aleksandr and I work as web developer.
 ### Stack
 
 - 👨‍💻 TypeScript, JavaScript, Python
-- ⚙️ Nodejs, Django, FastAPI
-- 👁️ HTML5, CSS3
-- 💽 PostgreSQL
+- ⚙️ Pytest, Django, DRF, FastAPI, aiohttp
+- 👁️ HTML5, CSS3, Bootstrap
+- 💽 PostgreSQL, Redis, MongoDB, ClickHouse
 - 🛠️ Docker, Kubernetes, RabbitMQ, CI/CD
+- 🔌 TCP/IP, HTTP, HTTPS, DNS
+- ☁️ AWS
 
 ### Info
 - [LeetCode](https://leetcode.com/no80dy/)
