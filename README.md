@@ -1,5 +1,8 @@
+
 <div style="text-align: center;">
-    <img src="https://github.com/no80dy/no80dy/assets/127035207/a92d4197-6c24-41f4-b5c2-cedc891b915e" alt="python-logo" width="50px" />
+    <img src="https://github.com/no80dy/no80dy/assets/127035207/a25061ac-691c-431e-b4db-d13635a569dd" alt="javascript-logo" width="50px" />
+    <img src="https://github.com/no80dy/no80dy/assets/127035207/09ed26fa-a9b5-485b-abb8-ca167c899886" alt="typescript-logo" width="50px" />
+    <img src="https://github.com/no80dy/no80dy/assets/127035207/a92d4197-6c24-41f4-b5c2-cedc891b915e" alt="python-logo" width="45px" />
 </div>
 
 ### Hi there 👋
