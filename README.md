@@ -1,4 +1,6 @@
-<img src="https://github.com/no80dy/no80dy/assets/127035207/a92d4197-6c24-41f4-b5c2-cedc891b915e" alt="python-logo" width=50px />
+<div style="text-align: center;">
+    <img src="https://github.com/no80dy/no80dy/assets/127035207/a92d4197-6c24-41f4-b5c2-cedc891b915e" alt="python-logo" width="50px" />
+</div>
 
 ### Hi there 👋
 
