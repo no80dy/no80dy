@@ -12,9 +12,9 @@ My name is Aleksandr and I work as a Python Backend developer.
 ### Stack
 - 👨‍💻 TypeScript/JavaScript, Python
 - ⚙️ Pytest, Django, DRF, FastAPI, aiohttp
-- 👁️ HTML5, CSS3, Bootstrap
-- 💽 PostgreSQL, Redis, MongoDB, ClickHouse
-- 🛠️ Docker, Kubernetes, RabbitMQ, CI/CD
+- 👁️ HTML, CSS, Bootstrap
+- 💽 PostgreSQL, Redis, Elasticsearch
+- 🛠️ Docker, RabbitMQ, CI/CD
 - 🔌 TCP/IP, HTTP, HTTPS, DNS
 - ☁️ AWS
 
